@@ -1,0 +1,28 @@
+[2024-01-05T02:54:47.663+0300] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.test_model scheduled__2022-12-31T00:30:00+00:00 [queued]>
+[2024-01-05T02:54:47.670+0300] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.test_model scheduled__2022-12-31T00:30:00+00:00 [queued]>
+[2024-01-05T02:54:47.670+0300] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-05T02:54:47.670+0300] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2024-01-05T02:54:47.670+0300] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2024-01-05T02:54:47.681+0300] {taskinstance.py:1309} INFO - Executing <Task(BashOperator): test_model> on 2022-12-31 00:30:00+00:00
+[2024-01-05T02:54:47.683+0300] {standard_task_runner.py:55} INFO - Started process 136173 to run task
+[2024-01-05T02:54:47.687+0300] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'test_model', 'scheduled__2022-12-31T00:30:00+00:00', '--job-id', '217', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmp4cuxlmp4']
+[2024-01-05T02:54:47.688+0300] {standard_task_runner.py:83} INFO - Job 217: Subtask test_model
+[2024-01-05T02:54:47.782+0300] {task_command.py:389} INFO - Running <TaskInstance: youtube_comments_score.test_model scheduled__2022-12-31T00:30:00+00:00 [running]> on host prod-srv
+[2024-01-05T02:54:47.866+0300] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=admin
+AIRFLOW_CTX_DAG_ID=youtube_comments_score
+AIRFLOW_CTX_TASK_ID=test_model
+AIRFLOW_CTX_EXECUTION_DATE=2022-12-31T00:30:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-12-31T00:30:00+00:00
+[2024-01-05T02:54:47.866+0300] {subprocess.py:63} INFO - Tmp dir root location: 
+ /tmp
+[2024-01-05T02:54:47.867+0300] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/igor/xflow/scripts/test_model.py']
+[2024-01-05T02:54:47.872+0300] {subprocess.py:86} INFO - Output:
+[2024-01-05T02:54:48.606+0300] {subprocess.py:93} INFO - score= -0.041757673127023276
+[2024-01-05T02:54:48.732+0300] {subprocess.py:97} INFO - Command exited with return code 0
+[2024-01-05T02:54:48.780+0300] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=youtube_comments_score, task_id=test_model, execution_date=20221231T003000, start_date=20240104T235447, end_date=20240104T235448
+[2024-01-05T02:54:48.825+0300] {local_task_job.py:212} INFO - Task exited with return code 0
+[2024-01-05T02:54:48.851+0300] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check

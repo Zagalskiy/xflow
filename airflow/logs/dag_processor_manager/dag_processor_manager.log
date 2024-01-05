@@ -1,0 +1,2118 @@
+[2024-01-04T22:44:28.132+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-01-04T22:44:28.133+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-01-04T22:44:28.133+0300] {manager.py:489} INFO - Checking for new files in /home/igor/xflow/airflow/dags every 300 seconds
+[2024-01-04T22:44:28.133+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-04T22:44:28.134+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-04T22:46:47.516+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-04T23:40:37.047+0300] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2024-01-04T23:40:37.051+0300] {manager.py:488} INFO - Process each file at most once every 30 seconds
+[2024-01-04T23:40:37.052+0300] {manager.py:489} INFO - Checking for new files in /home/igor/xflow/airflow/dags every 300 seconds
+[2024-01-04T23:40:37.052+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:40:37.054+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:45:37.629+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:45:37.630+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:50:37.990+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:50:37.992+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:55:38.387+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-04T23:55:38.389+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:00:39.353+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:00:39.355+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:05:39.472+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:05:39.473+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:10:39.593+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:10:39.594+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:15:40.546+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:15:40.546+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:20:40.562+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:20:40.563+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:25:40.633+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:25:40.635+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:30:40.676+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:30:40.678+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:35:41.683+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:35:41.685+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:40:41.868+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:40:41.868+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:45:42.028+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:45:42.031+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:50:42.222+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:50:42.223+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:55:42.482+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T00:55:42.484+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:00:42.687+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:00:42.689+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:05:42.909+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:05:42.910+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:10:43.089+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:10:43.091+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:15:43.192+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:15:43.194+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:20:43.427+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:20:43.429+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:25:43.574+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:25:43.575+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:30:43.706+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:30:43.707+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:35:43.945+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:35:43.946+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:40:44.182+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:40:44.184+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:45:44.387+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:45:44.389+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:50:44.512+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:50:44.514+0300] {manager.py:739} INFO - There are 0 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:55:44.674+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:55:44.676+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T01:56:07.677+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  37887  0.00s             1           0  0.07s           2024-01-04T22:56:07
+================================================================================
+[2024-01-05T01:56:37.768+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  38624  0.00s             1           0  0.09s           2024-01-04T22:56:37
+================================================================================
+[2024-01-05T01:57:07.826+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  39349  0.00s             1           0  0.09s           2024-01-04T22:57:07
+================================================================================
+[2024-01-05T01:57:37.885+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  40042  0.00s             1           0  0.08s           2024-01-04T22:57:37
+================================================================================
+[2024-01-05T01:58:07.896+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  40757  0.00s             1           0  0.08s           2024-01-04T22:58:07
+================================================================================
+[2024-01-05T01:58:37.911+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  41503  0.00s             1           0  0.08s           2024-01-04T22:58:37
+================================================================================
+[2024-01-05T01:59:07.948+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  42198  0.00s             1           0  0.08s           2024-01-04T22:59:07
+================================================================================
+[2024-01-05T01:59:38.015+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  42936  0.00s             1           0  0.08s           2024-01-04T22:59:38
+================================================================================
+[2024-01-05T02:00:08.033+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  43650  0.00s             1           0  0.08s           2024-01-04T23:00:08
+================================================================================
+[2024-01-05T02:00:38.078+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  44370  0.00s             1           0  0.08s           2024-01-04T23:00:38
+================================================================================
+[2024-01-05T02:00:44.706+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:00:44.707+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:01:08.144+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  45111  0.00s             1           0  0.08s           2024-01-04T23:01:08
+================================================================================
+[2024-01-05T02:01:38.185+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  45825  0.00s             1           0  0.08s           2024-01-04T23:01:38
+================================================================================
+[2024-01-05T02:02:08.228+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  46541  0.00s             1           0  0.08s           2024-01-04T23:02:08
+================================================================================
+[2024-01-05T02:02:38.240+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  47261  0.00s             1           0  0.08s           2024-01-04T23:02:38
+================================================================================
+[2024-01-05T02:03:08.258+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  47947  0.00s             1           0  0.09s           2024-01-04T23:03:08
+================================================================================
+[2024-01-05T02:03:38.330+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  48630  0.00s             1           0  0.08s           2024-01-04T23:03:38
+================================================================================
+[2024-01-05T02:04:08.391+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  49308  0.00s             1           0  0.08s           2024-01-04T23:04:08
+================================================================================
+[2024-01-05T02:04:38.470+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  50000  0.00s             1           0  0.08s           2024-01-04T23:04:38
+================================================================================
+[2024-01-05T02:05:08.532+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  50717  0.00s             1           0  0.08s           2024-01-04T23:05:08
+================================================================================
+[2024-01-05T02:05:38.599+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  51442  0.00s             1           0  0.09s           2024-01-04T23:05:38
+================================================================================
+[2024-01-05T02:05:44.772+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:05:44.772+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:06:08.608+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  52220  0.00s             1           0  0.08s           2024-01-04T23:06:08
+================================================================================
+[2024-01-05T02:06:38.621+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  52928  0.00s             1           0  0.08s           2024-01-04T23:06:38
+================================================================================
+[2024-01-05T02:07:08.654+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  53626  0.00s             1           0  0.08s           2024-01-04T23:07:08
+================================================================================
+[2024-01-05T02:07:38.667+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  54320  0.00s             1           0  0.08s           2024-01-04T23:07:38
+================================================================================
+[2024-01-05T02:08:08.703+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  55014  0.00s             1           0  0.10s           2024-01-04T23:08:08
+================================================================================
+[2024-01-05T02:08:38.720+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  55706  0.00s             1           0  0.09s           2024-01-04T23:08:38
+================================================================================
+[2024-01-05T02:09:08.772+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  56400  0.00s             1           0  0.11s           2024-01-04T23:09:08
+================================================================================
+[2024-01-05T02:09:38.833+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  57095  0.00s             1           0  0.09s           2024-01-04T23:09:38
+================================================================================
+[2024-01-05T02:10:08.921+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  57783  0.00s             1           0  0.09s           2024-01-04T23:10:08
+================================================================================
+[2024-01-05T02:10:38.963+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  58483  0.00s             1           0  0.08s           2024-01-04T23:10:38
+================================================================================
+[2024-01-05T02:10:44.799+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:10:44.800+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:11:08.990+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  59252  0.00s             1           0  0.09s           2024-01-04T23:11:08
+================================================================================
+[2024-01-05T02:11:39.037+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  59962  0.00s             1           0  0.09s           2024-01-04T23:11:39
+================================================================================
+[2024-01-05T02:12:09.121+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  60657  0.00s             1           0  0.09s           2024-01-04T23:12:09
+================================================================================
+[2024-01-05T02:12:39.181+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  61356  0.00s             1           0  0.09s           2024-01-04T23:12:39
+================================================================================
+[2024-01-05T02:13:09.230+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  62074  0.00s             1           0  0.09s           2024-01-04T23:13:09
+================================================================================
+[2024-01-05T02:13:39.271+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  62768  0.00s             1           0  0.08s           2024-01-04T23:13:39
+================================================================================
+[2024-01-05T02:14:09.343+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  63490  0.00s             1           0  0.08s           2024-01-04T23:14:09
+================================================================================
+[2024-01-05T02:14:39.370+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  64210  0.01s             1           0  0.08s           2024-01-04T23:14:39
+================================================================================
+[2024-01-05T02:15:09.442+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  64950  0.00s             1           0  0.09s           2024-01-04T23:15:09
+================================================================================
+[2024-01-05T02:15:39.453+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  65688  0.00s             1           0  0.08s           2024-01-04T23:15:39
+================================================================================
+[2024-01-05T02:15:44.862+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:15:44.863+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:16:09.459+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  66472  0.00s             1           0  0.08s           2024-01-04T23:16:09
+================================================================================
+[2024-01-05T02:16:39.495+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  67186  0.00s             1           0  0.08s           2024-01-04T23:16:39
+================================================================================
+[2024-01-05T02:17:09.543+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  67885  0.00s             1           0  0.08s           2024-01-04T23:17:09
+================================================================================
+[2024-01-05T02:17:39.581+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  68579  0.00s             1           0  0.08s           2024-01-04T23:17:39
+================================================================================
+[2024-01-05T02:18:09.664+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  69267  0.00s             1           0  0.08s           2024-01-04T23:18:09
+================================================================================
+[2024-01-05T02:18:39.752+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  70096  0.00s             1           0  0.09s           2024-01-04T23:18:39
+================================================================================
+[2024-01-05T02:19:09.803+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  70929  0.00s             1           0  0.08s           2024-01-04T23:19:09
+================================================================================
+[2024-01-05T02:19:39.865+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  71731  0.00s             1           0  0.08s           2024-01-04T23:19:39
+================================================================================
+[2024-01-05T02:20:09.895+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  72545  0.00s             1           0  0.08s           2024-01-04T23:20:09
+================================================================================
+[2024-01-05T02:20:39.941+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  73308  0.00s             1           0  0.08s           2024-01-04T23:20:39
+================================================================================
+[2024-01-05T02:20:44.869+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:20:44.870+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:21:09.965+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  74047  0.00s             1           0  0.09s           2024-01-04T23:21:09
+================================================================================
+[2024-01-05T02:21:40.002+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  74852  0.00s             1           0  0.08s           2024-01-04T23:21:39
+================================================================================
+[2024-01-05T02:22:10.021+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  75670  0.00s             1           0  0.08s           2024-01-04T23:22:10
+================================================================================
+[2024-01-05T02:22:40.037+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  76519  0.00s             1           0  0.08s           2024-01-04T23:22:40
+================================================================================
+[2024-01-05T02:23:10.115+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  77346  0.00s             1           0  0.08s           2024-01-04T23:23:10
+================================================================================
+[2024-01-05T02:23:40.194+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  78104  0.00s             1           0  0.08s           2024-01-04T23:23:40
+================================================================================
+[2024-01-05T02:24:10.241+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  78814  0.00s             1           0  0.09s           2024-01-04T23:24:10
+================================================================================
+[2024-01-05T02:24:40.311+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  79606  0.00s             1           0  0.08s           2024-01-04T23:24:40
+================================================================================
+[2024-01-05T02:25:10.354+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  80428  0.00s             1           0  0.08s           2024-01-04T23:25:10
+================================================================================
+[2024-01-05T02:25:40.424+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  81207  0.00s             1           0  0.08s           2024-01-04T23:25:40
+================================================================================
+[2024-01-05T02:25:44.924+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:25:44.925+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:26:10.458+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  82003  0.00s             1           0  0.08s           2024-01-04T23:26:10
+================================================================================
+[2024-01-05T02:26:40.464+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  82786  0.00s             1           0  0.09s           2024-01-04T23:26:40
+================================================================================
+[2024-01-05T02:27:10.548+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  83523  0.00s             1           0  0.08s           2024-01-04T23:27:10
+================================================================================
+[2024-01-05T02:27:40.586+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  84229  0.00s             1           0  0.08s           2024-01-04T23:27:40
+================================================================================
+[2024-01-05T02:28:10.602+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  84979  0.00s             1           0  0.08s           2024-01-04T23:28:10
+================================================================================
+[2024-01-05T02:28:40.627+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  85737  0.00s             1           0  0.08s           2024-01-04T23:28:40
+================================================================================
+[2024-01-05T02:29:10.688+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  86445  0.00s             1           0  0.09s           2024-01-04T23:29:10
+================================================================================
+[2024-01-05T02:29:40.692+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  87250  0.00s             1           0  0.10s           2024-01-04T23:29:40
+================================================================================
+[2024-01-05T02:30:10.749+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  87979  0.00s             1           0  0.09s           2024-01-04T23:30:10
+================================================================================
+[2024-01-05T02:30:40.799+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  88736  0.00s             1           0  0.08s           2024-01-04T23:30:40
+================================================================================
+[2024-01-05T02:30:44.932+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:30:44.933+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:31:10.851+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  89504  0.00s             1           0  0.08s           2024-01-04T23:31:10
+================================================================================
+[2024-01-05T02:31:40.905+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  90250  0.00s             1           0  0.08s           2024-01-04T23:31:40
+================================================================================
+[2024-01-05T02:32:10.916+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  90958  0.00s             1           0  0.08s           2024-01-04T23:32:10
+================================================================================
+[2024-01-05T02:32:40.936+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  91725  0.00s             1           0  0.10s           2024-01-04T23:32:40
+================================================================================
+[2024-01-05T02:33:10.989+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  92545  0.00s             1           0  0.08s           2024-01-04T23:33:10
+================================================================================
+[2024-01-05T02:33:41.029+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  93351  0.00s             1           0  0.09s           2024-01-04T23:33:41
+================================================================================
+[2024-01-05T02:34:11.053+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  94049  0.00s             1           0  0.09s           2024-01-04T23:34:11
+================================================================================
+[2024-01-05T02:34:41.066+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  94762  0.00s             1           0  0.08s           2024-01-04T23:34:41
+================================================================================
+[2024-01-05T02:35:11.109+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  95555  0.00s             1           0  0.08s           2024-01-04T23:35:11
+================================================================================
+[2024-01-05T02:35:41.152+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  96349  0.00s             1           0  0.09s           2024-01-04T23:35:41
+================================================================================
+[2024-01-05T02:35:44.957+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:35:44.958+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:36:11.191+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  97129  0.00s             1           0  0.09s           2024-01-04T23:36:11
+================================================================================
+[2024-01-05T02:36:41.207+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  97918  0.00s             1           0  0.08s           2024-01-04T23:36:41
+================================================================================
+[2024-01-05T02:37:11.286+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  98651  0.00s             1           0  0.08s           2024-01-04T23:37:11
+================================================================================
+[2024-01-05T02:37:41.314+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                  PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  99383  0.00s             1           0  0.08s           2024-01-04T23:37:41
+================================================================================
+[2024-01-05T02:38:11.354+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  100115  0.00s             1           0  0.08s           2024-01-04T23:38:11
+================================================================================
+[2024-01-05T02:38:41.436+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  101162  0.00s             1           0  0.08s           2024-01-04T23:38:41
+================================================================================
+[2024-01-05T02:39:11.443+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  102265  0.00s             1           0  0.08s           2024-01-04T23:39:11
+================================================================================
+[2024-01-05T02:39:41.452+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  103292  0.00s             1           0  0.08s           2024-01-04T23:39:41
+================================================================================
+[2024-01-05T02:40:11.455+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  104439  0.00s             1           0  0.08s           2024-01-04T23:40:11
+================================================================================
+[2024-01-05T02:40:41.518+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  105585  0.00s             1           0  0.08s           2024-01-04T23:40:41
+================================================================================
+[2024-01-05T02:40:44.976+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:40:44.977+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:41:11.631+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  106680  0.00s             1           0  0.34s           2024-01-04T23:41:11
+================================================================================
+[2024-01-05T02:41:41.673+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  107888  0.00s             1           0  0.08s           2024-01-04T23:41:41
+================================================================================
+[2024-01-05T02:42:11.674+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  108765  0.00s             1           0  0.08s           2024-01-04T23:42:11
+================================================================================
+[2024-01-05T02:42:41.729+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  109517  0.00s             1           0  0.08s           2024-01-04T23:42:41
+================================================================================
+[2024-01-05T02:43:11.736+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  110302  0.00s             1           0  0.07s           2024-01-04T23:43:11
+================================================================================
+[2024-01-05T02:43:41.816+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  111154  0.00s             1           0  0.08s           2024-01-04T23:43:41
+================================================================================
+[2024-01-05T02:44:11.911+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  112249  0.00s             1           0  0.09s           2024-01-04T23:44:11
+================================================================================
+[2024-01-05T02:44:41.953+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  113362  0.00s             1           0  0.08s           2024-01-04T23:44:41
+================================================================================
+[2024-01-05T02:45:11.979+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  114613  0.00s             1           0  0.09s           2024-01-04T23:45:11
+================================================================================
+[2024-01-05T02:45:41.982+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  115878  0.00s             1           0  0.08s           2024-01-04T23:45:41
+================================================================================
+[2024-01-05T02:45:45.038+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:45:45.039+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:46:12.071+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  117010  0.00s             1           0  0.09s           2024-01-04T23:46:12
+================================================================================
+[2024-01-05T02:46:42.076+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  118147  0.00s             1           0  0.13s           2024-01-04T23:46:42
+================================================================================
+[2024-01-05T02:47:12.132+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  119239  0.00s             1           0  0.09s           2024-01-04T23:47:12
+================================================================================
+[2024-01-05T02:47:42.210+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  120363  0.00s             1           0  0.09s           2024-01-04T23:47:42
+================================================================================
+[2024-01-05T02:48:12.249+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  121502  0.00s             1           0  0.13s           2024-01-04T23:48:12
+================================================================================
+[2024-01-05T02:48:42.322+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  122610  0.00s             1           0  0.08s           2024-01-04T23:48:42
+================================================================================
+[2024-01-05T02:49:12.392+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  123688  0.00s             1           0  0.08s           2024-01-04T23:49:12
+================================================================================
+[2024-01-05T02:49:42.456+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  124809  0.00s             1           0  0.08s           2024-01-04T23:49:42
+================================================================================
+[2024-01-05T02:50:12.527+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  125945  0.00s             1           0  0.10s           2024-01-04T23:50:12
+================================================================================
+[2024-01-05T02:50:42.606+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  127132  0.00s             1           0  0.08s           2024-01-04T23:50:42
+================================================================================
+[2024-01-05T02:50:45.044+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:50:45.045+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:51:12.633+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  128319  0.00s             1           0  0.08s           2024-01-04T23:51:12
+================================================================================
+[2024-01-05T02:51:42.654+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  129610  0.00s             1           0  0.07s           2024-01-04T23:51:42
+================================================================================
+[2024-01-05T02:52:12.677+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  130809  0.00s             1           0  0.08s           2024-01-04T23:52:12
+================================================================================
+[2024-01-05T02:52:42.755+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  131911  0.00s             1           0  0.08s           2024-01-04T23:52:42
+================================================================================
+[2024-01-05T02:53:12.809+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  133072  0.00s             1           0  0.08s           2024-01-04T23:53:12
+================================================================================
+[2024-01-05T02:53:42.847+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  134023  0.00s             1           0  0.07s           2024-01-04T23:53:42
+================================================================================
+[2024-01-05T02:54:13.028+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  134908  0.03s             1           0  0.23s           2024-01-04T23:54:12
+================================================================================
+[2024-01-05T02:54:43.073+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  136007  0.00s             1           0  0.09s           2024-01-04T23:54:43
+================================================================================
+[2024-01-05T02:55:13.097+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  137103  0.00s             1           0  0.09s           2024-01-04T23:55:13
+================================================================================
+[2024-01-05T02:55:43.369+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  138214  0.00s             1           0  0.30s           2024-01-04T23:55:43
+================================================================================
+[2024-01-05T02:55:45.090+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:55:45.091+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T02:56:13.383+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  139414  0.00s             1           0  0.08s           2024-01-04T23:56:13
+================================================================================
+[2024-01-05T02:56:43.446+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  140514  0.00s             1           0  0.08s           2024-01-04T23:56:43
+================================================================================
+[2024-01-05T02:57:13.527+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  141620  0.00s             1           0  0.08s           2024-01-04T23:57:13
+================================================================================
+[2024-01-05T02:57:43.567+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  142779  0.00s             1           0  0.09s           2024-01-04T23:57:43
+================================================================================
+[2024-01-05T02:58:13.608+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  143897  0.00s             1           0  0.08s           2024-01-04T23:58:13
+================================================================================
+[2024-01-05T02:58:43.664+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  145104  0.00s             1           0  0.10s           2024-01-04T23:58:43
+================================================================================
+[2024-01-05T02:59:13.666+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  146131  0.00s             1           0  0.09s           2024-01-04T23:59:13
+================================================================================
+[2024-01-05T02:59:43.787+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  147251  0.00s             1           0  0.18s           2024-01-04T23:59:43
+================================================================================
+[2024-01-05T03:00:13.811+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  148265  0.00s             1           0  0.08s           2024-01-05T00:00:13
+================================================================================
+[2024-01-05T03:00:43.881+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  149351  0.00s             1           0  0.09s           2024-01-05T00:00:43
+================================================================================
+[2024-01-05T03:00:45.165+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:00:45.166+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:01:13.930+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  150414  0.01s             1           0  0.08s           2024-01-05T00:01:13
+================================================================================
+[2024-01-05T03:01:44.001+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  151564  0.00s             1           0  0.09s           2024-01-05T00:01:43
+================================================================================
+[2024-01-05T03:02:14.046+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  152649  0.00s             1           0  0.09s           2024-01-05T00:02:14
+================================================================================
+[2024-01-05T03:02:44.078+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  153698  0.00s             1           0  0.08s           2024-01-05T00:02:44
+================================================================================
+[2024-01-05T03:03:14.085+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  154741  0.00s             1           0  0.12s           2024-01-05T00:03:14
+================================================================================
+[2024-01-05T03:03:44.109+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  155820  0.00s             1           0  0.12s           2024-01-05T00:03:44
+================================================================================
+[2024-01-05T03:04:14.159+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  156929  0.00s             1           0  0.08s           2024-01-05T00:04:14
+================================================================================
+[2024-01-05T03:04:44.210+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  158013  0.00s             1           0  0.08s           2024-01-05T00:04:44
+================================================================================
+[2024-01-05T03:05:14.225+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  159099  0.00s             1           0  0.09s           2024-01-05T00:05:14
+================================================================================
+[2024-01-05T03:05:44.276+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  160186  0.00s             1           0  0.08s           2024-01-05T00:05:44
+================================================================================
+[2024-01-05T03:05:45.199+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:05:45.200+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:06:14.289+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  161277  0.00s             1           0  0.10s           2024-01-05T00:06:14
+================================================================================
+[2024-01-05T03:06:44.333+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  162101  0.00s             1           0  0.09s           2024-01-05T00:06:44
+================================================================================
+[2024-01-05T03:07:14.414+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  162848  0.00s             1           0  0.09s           2024-01-05T00:07:14
+================================================================================
+[2024-01-05T03:07:44.416+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  163596  0.00s             1           0  0.07s           2024-01-05T00:07:44
+================================================================================
+[2024-01-05T03:08:14.418+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  164344  0.00s             1           0  0.08s           2024-01-05T00:08:14
+================================================================================
+[2024-01-05T03:08:44.448+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  165196  0.00s             1           0  0.08s           2024-01-05T00:08:44
+================================================================================
+[2024-01-05T03:09:14.486+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  166020  0.00s             1           0  0.07s           2024-01-05T00:09:14
+================================================================================
+[2024-01-05T03:09:44.551+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  166767  0.00s             1           0  0.08s           2024-01-05T00:09:44
+================================================================================
+[2024-01-05T03:10:14.598+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  167511  0.00s             1           0  0.08s           2024-01-05T00:10:14
+================================================================================
+[2024-01-05T03:10:44.672+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  168320  0.00s             1           0  0.08s           2024-01-05T00:10:44
+================================================================================
+[2024-01-05T03:10:45.223+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:10:45.224+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:11:14.689+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  169087  0.00s             1           0  0.08s           2024-01-05T00:11:14
+================================================================================
+[2024-01-05T03:11:44.699+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  169937  0.00s             1           0  0.08s           2024-01-05T00:11:44
+================================================================================
+[2024-01-05T03:12:14.752+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  170683  0.00s             1           0  0.08s           2024-01-05T00:12:14
+================================================================================
+[2024-01-05T03:12:44.758+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  171426  0.00s             1           0  0.08s           2024-01-05T00:12:44
+================================================================================
+[2024-01-05T03:13:14.802+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  172168  0.00s             1           0  0.08s           2024-01-05T00:13:14
+================================================================================
+[2024-01-05T03:13:44.803+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  172910  0.00s             1           0  0.08s           2024-01-05T00:13:44
+================================================================================
+[2024-01-05T03:14:14.854+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  173693  0.00s             1           0  0.22s           2024-01-05T00:14:14
+================================================================================
+[2024-01-05T03:14:44.913+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  174433  0.00s             1           0  0.08s           2024-01-05T00:14:44
+================================================================================
+[2024-01-05T03:15:14.925+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  175206  0.00s             1           0  0.08s           2024-01-05T00:15:14
+================================================================================
+[2024-01-05T03:15:44.948+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  175944  0.00s             1           0  0.08s           2024-01-05T00:15:44
+================================================================================
+[2024-01-05T03:15:45.262+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:15:45.263+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:16:15.001+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  176726  0.00s             1           0  0.07s           2024-01-05T00:16:14
+================================================================================
+[2024-01-05T03:16:45.014+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  177492  0.00s             1           0  0.08s           2024-01-05T00:16:45
+================================================================================
+[2024-01-05T03:17:15.020+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  178220  0.00s             1           0  0.08s           2024-01-05T00:17:15
+================================================================================
+[2024-01-05T03:17:45.087+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  178924  0.00s             1           0  0.08s           2024-01-05T00:17:45
+================================================================================
+[2024-01-05T03:18:15.110+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  179638  0.00s             1           0  0.08s           2024-01-05T00:18:15
+================================================================================
+[2024-01-05T03:18:45.172+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  180369  0.00s             1           0  0.08s           2024-01-05T00:18:45
+================================================================================
+[2024-01-05T03:19:15.209+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  181103  0.00s             1           0  0.08s           2024-01-05T00:19:15
+================================================================================
+[2024-01-05T03:19:45.211+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  181846  0.00s             1           0  0.08s           2024-01-05T00:19:45
+================================================================================
+[2024-01-05T03:20:15.289+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  182590  0.00s             1           0  0.09s           2024-01-05T00:20:15
+================================================================================
+[2024-01-05T03:20:45.285+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:20:45.286+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:20:45.294+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  183321  0.00s             1           0  0.08s           2024-01-05T00:20:45
+================================================================================
+[2024-01-05T03:21:15.318+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  184111  0.00s             1           0  0.08s           2024-01-05T00:21:15
+================================================================================
+[2024-01-05T03:21:45.362+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  184879  0.00s             1           0  0.08s           2024-01-05T00:21:45
+================================================================================
+[2024-01-05T03:22:15.426+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  185627  0.00s             1           0  0.08s           2024-01-05T00:22:15
+================================================================================
+[2024-01-05T03:22:45.510+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  186367  0.00s             1           0  0.09s           2024-01-05T00:22:45
+================================================================================
+[2024-01-05T03:23:15.542+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  187103  0.00s             1           0  0.08s           2024-01-05T00:23:15
+================================================================================
+[2024-01-05T03:23:45.609+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  187829  0.00s             1           0  0.08s           2024-01-05T00:23:45
+================================================================================
+[2024-01-05T03:24:15.642+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  188562  0.00s             1           0  0.08s           2024-01-05T00:24:15
+================================================================================
+[2024-01-05T03:24:45.717+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  189265  0.00s             1           0  0.08s           2024-01-05T00:24:45
+================================================================================
+[2024-01-05T03:25:15.770+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  189970  0.00s             1           0  0.08s           2024-01-05T00:25:15
+================================================================================
+[2024-01-05T03:25:45.302+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:25:45.303+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:25:45.817+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  190673  0.00s             1           0  0.08s           2024-01-05T00:25:45
+================================================================================
+[2024-01-05T03:26:15.859+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  191404  0.00s             1           0  0.08s           2024-01-05T00:26:15
+================================================================================
+[2024-01-05T03:26:45.907+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  192116  0.00s             1           0  0.08s           2024-01-05T00:26:45
+================================================================================
+[2024-01-05T03:27:15.929+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  192823  0.00s             1           0  0.09s           2024-01-05T00:27:15
+================================================================================
+[2024-01-05T03:27:45.951+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  193524  0.00s             1           0  0.09s           2024-01-05T00:27:45
+================================================================================
+[2024-01-05T03:28:15.970+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  194266  0.00s             1           0  0.08s           2024-01-05T00:28:15
+================================================================================
+[2024-01-05T03:28:46.015+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  194996  0.00s             1           0  0.08s           2024-01-05T00:28:46
+================================================================================
+[2024-01-05T03:29:16.083+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  195708  0.00s             1           0  0.08s           2024-01-05T00:29:16
+================================================================================
+[2024-01-05T03:29:46.140+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  196412  0.00s             1           0  0.08s           2024-01-05T00:29:46
+================================================================================
+[2024-01-05T03:30:16.148+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  197114  0.00s             1           0  0.09s           2024-01-05T00:30:16
+================================================================================
+[2024-01-05T03:30:45.318+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:30:45.319+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:30:46.184+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  197822  0.00s             1           0  0.08s           2024-01-05T00:30:46
+================================================================================
+[2024-01-05T03:31:16.256+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  198559  0.00s             1           0  0.08s           2024-01-05T00:31:16
+================================================================================
+[2024-01-05T03:31:46.276+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  199263  0.00s             1           0  0.08s           2024-01-05T00:31:46
+================================================================================
+[2024-01-05T03:32:16.318+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  199965  0.00s             1           0  0.08s           2024-01-05T00:32:16
+================================================================================
+[2024-01-05T03:32:46.321+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  200681  0.00s             1           0  0.08s           2024-01-05T00:32:46
+================================================================================
+[2024-01-05T03:33:16.399+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  201389  0.00s             1           0  0.08s           2024-01-05T00:33:16
+================================================================================
+[2024-01-05T03:33:46.406+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  202110  0.00s             1           0  0.09s           2024-01-05T00:33:46
+================================================================================
+[2024-01-05T03:34:16.448+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  202846  0.00s             1           0  0.08s           2024-01-05T00:34:16
+================================================================================
+[2024-01-05T03:34:46.510+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  203584  0.00s             1           0  0.08s           2024-01-05T00:34:46
+================================================================================
+[2024-01-05T03:35:16.543+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  204323  0.00s             1           0  0.08s           2024-01-05T00:35:16
+================================================================================
+[2024-01-05T03:35:45.358+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:35:45.358+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:35:46.569+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  205064  0.00s             1           0  0.08s           2024-01-05T00:35:46
+================================================================================
+[2024-01-05T03:36:16.586+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  205825  0.00s             1           0  0.08s           2024-01-05T00:36:16
+================================================================================
+[2024-01-05T03:36:46.628+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  206636  0.00s             1           0  0.08s           2024-01-05T00:36:46
+================================================================================
+[2024-01-05T03:37:16.642+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  207381  0.00s             1           0  0.08s           2024-01-05T00:37:16
+================================================================================
+[2024-01-05T03:37:46.658+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  208103  0.00s             1           0  0.07s           2024-01-05T00:37:46
+================================================================================
+[2024-01-05T03:38:16.731+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  208855  0.00s             1           0  0.08s           2024-01-05T00:38:16
+================================================================================
+[2024-01-05T03:38:46.789+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  209609  0.00s             1           0  0.08s           2024-01-05T00:38:46
+================================================================================
+[2024-01-05T03:39:16.846+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  210361  0.00s             1           0  0.08s           2024-01-05T00:39:16
+================================================================================
+[2024-01-05T03:39:46.923+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  211110  0.00s             1           0  0.08s           2024-01-05T00:39:46
+================================================================================
+[2024-01-05T03:40:16.964+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  211812  0.00s             1           0  0.08s           2024-01-05T00:40:16
+================================================================================
+[2024-01-05T03:40:45.366+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:40:45.367+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:40:47.019+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  212513  0.00s             1           0  0.08s           2024-01-05T00:40:47
+================================================================================
+[2024-01-05T03:41:17.072+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  213238  0.00s             1           0  0.09s           2024-01-05T00:41:17
+================================================================================
+[2024-01-05T03:41:47.131+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  213936  0.00s             1           0  0.08s           2024-01-05T00:41:47
+================================================================================
+[2024-01-05T03:42:17.205+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  214612  0.00s             1           0  0.08s           2024-01-05T00:42:17
+================================================================================
+[2024-01-05T03:42:47.215+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  215283  0.00s             1           0  0.08s           2024-01-05T00:42:47
+================================================================================
+[2024-01-05T03:43:17.223+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  215977  0.00s             1           0  0.15s           2024-01-05T00:43:17
+================================================================================
+[2024-01-05T03:43:47.246+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  216719  0.00s             1           0  0.08s           2024-01-05T00:43:47
+================================================================================
+[2024-01-05T03:44:17.266+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  217369  0.00s             1           0  0.08s           2024-01-05T00:44:17
+================================================================================
+[2024-01-05T03:44:47.343+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  217999  0.00s             1           0  0.08s           2024-01-05T00:44:47
+================================================================================
+[2024-01-05T03:45:17.374+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  218622  0.01s             1           0  0.08s           2024-01-05T00:45:17
+================================================================================
+[2024-01-05T03:45:45.443+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:45:45.444+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:45:47.378+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  219234  0.00s             1           0  0.08s           2024-01-05T00:45:47
+================================================================================
+[2024-01-05T03:46:17.483+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  219922  0.00s             1           0  0.15s           2024-01-05T00:46:17
+================================================================================
+[2024-01-05T03:46:47.575+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  220600  0.00s             1           0  0.15s           2024-01-05T00:46:47
+================================================================================
+[2024-01-05T03:47:17.596+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  221231  0.00s             1           0  0.08s           2024-01-05T00:47:17
+================================================================================
+[2024-01-05T03:47:47.647+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  221839  0.00s             1           0  0.09s           2024-01-05T00:47:47
+================================================================================
+[2024-01-05T03:48:17.714+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  222429  0.00s             1           0  0.08s           2024-01-05T00:48:17
+================================================================================
+[2024-01-05T03:48:47.732+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  223139  0.00s             1           0  0.15s           2024-01-05T00:48:47
+================================================================================
+[2024-01-05T03:49:17.802+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  223789  0.00s             1           0  0.15s           2024-01-05T00:49:17
+================================================================================
+[2024-01-05T03:49:47.821+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  224319  0.00s             1           0  0.08s           2024-01-05T00:49:47
+================================================================================
+[2024-01-05T03:50:17.829+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  224831  0.00s             1           0  0.08s           2024-01-05T00:50:17
+================================================================================
+[2024-01-05T03:50:45.455+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:50:45.457+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:50:47.843+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  225438  0.00s             1           0  0.15s           2024-01-05T00:50:47
+================================================================================
+[2024-01-05T03:51:17.956+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  226108  0.00s             1           0  0.15s           2024-01-05T00:51:17
+================================================================================
+[2024-01-05T03:51:47.961+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  226603  0.00s             1           0  0.08s           2024-01-05T00:51:47
+================================================================================
+[2024-01-05T03:52:18.101+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  227113  0.00s             1           0  0.15s           2024-01-05T00:52:18
+================================================================================
+[2024-01-05T03:52:48.247+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  227715  0.00s             1           0  0.15s           2024-01-05T00:52:48
+================================================================================
+[2024-01-05T03:53:18.274+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  228267  0.00s             1           0  0.07s           2024-01-05T00:53:18
+================================================================================
+[2024-01-05T03:53:48.336+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  228705  0.00s             1           0  0.15s           2024-01-05T00:53:48
+================================================================================
+[2024-01-05T03:54:18.470+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  229283  0.00s             1           0  0.15s           2024-01-05T00:54:18
+================================================================================
+[2024-01-05T03:54:48.495+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  229846  0.00s             1           0  0.08s           2024-01-05T00:54:48
+================================================================================
+[2024-01-05T03:55:18.583+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  230249  0.00s             1           0  0.15s           2024-01-05T00:55:18
+================================================================================
+[2024-01-05T03:55:45.483+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:55:45.484+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T03:55:48.633+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  230800  0.00s             1           0  0.16s           2024-01-05T00:55:48
+================================================================================
+[2024-01-05T03:56:18.694+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  231382  0.00s             1           0  0.09s           2024-01-05T00:56:18
+================================================================================
+[2024-01-05T03:56:48.758+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  231809  0.00s             1           0  0.15s           2024-01-05T00:56:48
+================================================================================
+[2024-01-05T03:57:18.806+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  232342  0.00s             1           0  0.16s           2024-01-05T00:57:18
+================================================================================
+[2024-01-05T03:57:48.872+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  232765  0.00s             1           0  0.08s           2024-01-05T00:57:48
+================================================================================
+[2024-01-05T03:58:18.947+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  233316  0.00s             1           0  0.16s           2024-01-05T00:58:18
+================================================================================
+[2024-01-05T03:58:49.039+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  233858  0.00s             1           0  0.16s           2024-01-05T00:58:49
+================================================================================
+[2024-01-05T03:59:19.086+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  234268  0.00s             1           0  0.17s           2024-01-05T00:59:19
+================================================================================
+[2024-01-05T03:59:49.101+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  234810  0.00s             1           0  0.15s           2024-01-05T00:59:49
+================================================================================
+[2024-01-05T04:00:19.131+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  235232  0.00s             1           0  0.08s           2024-01-05T01:00:19
+================================================================================
+[2024-01-05T04:00:45.610+0300] {manager.py:736} INFO - Searching for files in /home/igor/xflow/airflow/dags
+[2024-01-05T04:00:45.611+0300] {manager.py:739} INFO - There are 1 files in /home/igor/xflow/airflow/dags
+[2024-01-05T04:00:49.261+0300] {manager.py:864} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                   PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-------------------------------------------------------  ------  ---------  --------  ----------  --------------  -------------------
+/home/igor/xflow/airflow/dags/youtube_comments_score.py  235784  0.00s             1           0  0.15s           2024-01-05T01:00:49
+================================================================================
+[2024-01-05T04:00:49.633+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-05T04:00:49.706+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15
+[2024-01-05T04:00:49.733+0300] {manager.py:469} INFO - Exiting gracefully upon receiving signal 15

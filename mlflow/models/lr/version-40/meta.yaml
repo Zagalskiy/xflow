@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1704412313192
+current_stage: None
+description: null
+last_updated_timestamp: 1704412313192
+name: lr
+run_id: ebad14fae01147f8aedc9ac823850f12
+run_link: null
+source: /home/igor/xflow/mlflow/2/ebad14fae01147f8aedc9ac823850f12/artifacts/lr
+status: READY
+status_message: null
+storage_location: /home/igor/xflow/mlflow/2/ebad14fae01147f8aedc9ac823850f12/artifacts/lr
+user_id: null
+version: 40
